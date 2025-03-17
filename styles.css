@@ -1,7 +1,5 @@
-
-/* Your CSS Code here. *//* Your CSS Code here. */
 .holder {
     display: flex;
     flex-wrap: wrap; /* Allows items to wrap to the next row */
-    justify-content: space-between; /* Spaces items evenly in the row */
+    justify-content: space-evenly; /* Spaces items evenly in the row */
 }
